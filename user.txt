@@ -5,4 +5,4 @@ hello
 
 hello 2957 
 
-hello from hông anh 
+hello from both
